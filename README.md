@@ -1,2 +1,2 @@
-# Lendo Um Bilhão de linhas.
+# Lendo Um Bilhão de linhas com python, pandas.
 
