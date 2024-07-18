@@ -1,0 +1,12 @@
+instance/
+.webassets-cache
+
+data/measurements.txt
+
+.scrapy
+
+# Sphinx documentation
+docs/_build
+
+#PyBuilder
+.PyBuilder
